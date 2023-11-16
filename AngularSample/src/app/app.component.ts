@@ -14,4 +14,9 @@ import { Component } from '@angular/core';
 
 export class AppComponent {
   title = 'AngularSample';
+  //Invoke a method in the component using Interpolation
+  homeTitle = 'Home Page';
+  getTitle(): string {
+     return this.homeTitle;
+ }
 }

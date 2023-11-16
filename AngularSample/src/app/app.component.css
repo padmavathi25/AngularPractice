@@ -1,4 +1,12 @@
-
+#container{
+  width: 100vw;
+  height:100vh;
+  background-image: url('../assets/Images/background_img.jpg');
+  background-size: cover;
+}
+ h1{
+  color: white !important;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -22,3 +30,4 @@ li a {
 li a:hover {
   background-color: #111111;
 }
+
