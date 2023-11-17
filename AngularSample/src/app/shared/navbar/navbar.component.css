@@ -1,0 +1,9 @@
+.navbar-nav .nav-link.active{
+  color:var(--secondary--color);
+
+ }
+
+.navbar-nav .nav-link.active.active-link{
+ color:var(--primary--color);
+ font-weight:bold!important;
+}
