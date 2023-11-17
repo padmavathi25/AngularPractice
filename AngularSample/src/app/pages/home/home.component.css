@@ -1,0 +1,52 @@
+.banner{
+  background-image: url('../../../assets/Images/3.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 83vh;
+  background-position:center top;
+}
+.banner h1{
+  color:whitesmoke;
+  font-size:60px;
+  font-weight: bold;
+
+}
+.content{
+  top:30%;
+  left:40%;
+  position:absolute;
+
+}
+.content a{
+  text-decoration: none;
+  background-color:white;
+  color:var(--primary--color);
+  padding: 15px 20px;
+  border-radius: 5px;
+}
+.content a:hover{
+  background-color: var(--primary--color);
+  color:white;
+
+}
+.stepbox{
+  background-color: rgb(24, 25, 26);
+  padding:20px 20px;
+  border-radius:5px;
+  text-align:center ;
+}
+.stepbox h1{
+  color:var(--primary--color);
+  font-size: 45px;
+  font-weight: bold;
+}
+.stepbox p{
+  color: white;
+  font-style: italic;
+  font-size: 20px;
+}
+.text-highlight{
+  color:var(--primary--color);
+  font-weight: bold;
+  font-style: italic;
+}
