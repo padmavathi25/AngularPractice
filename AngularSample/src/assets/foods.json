@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": 0,
+    "name": "Chinese Sticky Rice",
+    "details": "Another dim sum favorite, lo mai gai is a Canatics, typically wrapped in lotus leaf before being steamed",
+    "price": 1500,
+    "image": "../assets/Images/traditional-chinese-food-chinese-sticky-rice.webp"
+  },
+  {
+    "id": 1,
+    "name": "Hainanese Chicken Rice",
+    "details": "Hailing from the southern province of Hainan, this delicately flavored poached chicken dish is supremely comforting.",
+    "price": 999,
+    "image": "../assets/Images/traditional-chinese-food-hainanese-chicken-rice.webp"
+  },
+  {
+    "id": 2,
+    "name": "Mapo Tofu",
+    "details": " Sichuanese tofu/beef/fermented bean paste dish are usually much less spicy than their traditional.",
+    "price": 1199,
+    "image": "../assets/Images/traditional-chinese-food-mapo-tofu.webp"
+  },
+  {
+    "id": 3,
+    "name": "kungpao Chicken",
+    "details": "Chicken roll with avocado, cucumber, and carrot.",
+    "price": 899,
+    "image": "../assets/Images/traditional-chinese-food-kung-pao-chicken.webp"
+  }
+]
